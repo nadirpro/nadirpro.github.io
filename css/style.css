@@ -8,6 +8,12 @@ h1 {
   font-size: 18px;
   font-weight: 500;
   line-height: 24px;
+  margin: 5px 0;
+}
+p {
+  font-size: 14px;
+  line-height: 18px;
+  color: #888;
 }
 .block {
   margin: 0 auto;
