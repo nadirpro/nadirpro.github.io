@@ -23,6 +23,10 @@ p {
   max-width: 375px;
   padding: 20px;
 }
+.name {
+  display:inline-block;
+  height:60px;
+}
 .msg {
   padding-left:0;
 }
