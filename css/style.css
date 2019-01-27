@@ -52,3 +52,11 @@ body {
   background-color:#0284FF; 
   background-image: url(/img/messenger.svg);
 }
+.instagram {
+  background-image: url(/img/instagram.svg);
+  background-size:auto;
+}
+.ok {
+  background-image: url(/img/ok.svg);
+  background-size:auto;
+}
