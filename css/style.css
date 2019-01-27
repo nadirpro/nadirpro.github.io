@@ -1,1 +1,8 @@
-s
+.messenger {
+  width:100px;
+  height:100px;
+  border-radius:100px;
+}
+.vk {
+  background-color:#5b88bd;  
+}
