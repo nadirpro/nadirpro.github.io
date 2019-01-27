@@ -9,6 +9,12 @@ body {
   max-width: 375px;
   padding: 25px;
 }
+.msg {
+  
+}
+.msg li {
+  list-style:none;  
+}
 .messenger {
   width:70px;
   height:70px;
