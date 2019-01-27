@@ -16,7 +16,7 @@ body {
   background-repeat: no-repeat;
   background-size: 35px auto;
   background-position: center;
-  display: inline-block;
+  display: table-caption;;
 }
 .vk {
   background-color:#5b88bd; 
