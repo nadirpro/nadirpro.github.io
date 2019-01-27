@@ -8,6 +8,9 @@ function getAge(dateString) {
     }
     return age;
 }
+function plural(n,str1,str2,str5){return n + ' ' + ((((n%10)==1)&&((n%100)!=11))?(str1):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(str2):(str5)))}
+
 window.onload = function() {
-   document.getElementById('age').innerHTML=getAge("03/01/1998");
+   var age=getAge("03/01/1998")ж
+   document.getElementById('age').innerHTML=age+' '+plural(age, 'год', 'года', 'лет')+', Тюмень';
 };
