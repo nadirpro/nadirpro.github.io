@@ -9,5 +9,5 @@ function getAge(dateString) {
     return age;
 }
 window.onload = function() {
-   document.getElementById('age').innerHTML=getAge("01/03/1998");
+   document.getElementById('age').innerHTML=getAge("03/01/1998");
 };
