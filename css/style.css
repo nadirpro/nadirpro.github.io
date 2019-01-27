@@ -24,15 +24,19 @@ p {
   padding: 20px;
 }
 .photo {
-  display:inline-block;
+  display:table-cell;
   height:60px;
   width:60px;
   background-repeat: no-repeat;
   background-position: center;
+  border-radius: 100px;
+  background-color: #000;
 }
 .name {
-  display:inline-block;
+  display:table-cell;
   height:60px;
+  padding-left: 15px;
+  vertical-align: middle;
 }
 .msg {
   padding-left:0;
