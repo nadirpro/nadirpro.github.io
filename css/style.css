@@ -14,3 +14,19 @@
   background-color:#1F98D4; 
   background-image: url(/img/telegram.svg);
 }
+.viber {
+  background-color:#665CAC; 
+  background-image: url(/img/viber.svg);
+}
+.whatsapp {
+  background-color:#24D366; 
+  background-image: url(/img/whatsapp.svg);
+}
+.skype {
+  background-color:#00AFF0; 
+  background-image: url(/img/skype.svg);
+}
+.facebook {
+  background-color:#0284FF; 
+  background-image: url(/img/messenger.svg);
+}
