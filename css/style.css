@@ -2,6 +2,7 @@
 body {
   margin:0;
   padding:20px;
+  font-size: 14px;
   font-family: Roboto,sans-serif;
 }
 h1 {
@@ -10,8 +11,10 @@ h1 {
   line-height: 24px;
   margin: 5px 0;
 }
+h2 {
+  font-weight: 400;
+}
 p {
-  font-size: 14px;
   line-height: 18px;
   color: #676767;
   margin: 0;
@@ -39,6 +42,12 @@ p {
   height:60px;
   padding-left: 10px;
   vertical-align: middle;
+}
+.hello-block {
+    margin: 0 auto;
+    width: calc(100% - 40px);
+    max-width: 375px;
+    padding: 20px;
 }
 .msg {
   padding-left:0;
