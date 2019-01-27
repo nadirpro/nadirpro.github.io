@@ -30,7 +30,9 @@ p {
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 100px;
-  background-color: #000;
+  background-image: url(/img/avatar.jpg);
+  background-size: cover;
+  background-position: 0 0;
 }
 .name {
   display:table-cell;
