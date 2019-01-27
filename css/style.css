@@ -10,7 +10,11 @@ body {
   padding: 25px;
 }
 .msg {
+  display: flex;
   justify-content: space-between;
+}
+.msg li {
+   list-style-type: none;
 }
 .messenger {
   width:70px;
