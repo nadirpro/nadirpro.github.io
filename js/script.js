@@ -8,4 +8,6 @@ function getAge(dateString) {
     }
     return age;
 }
-document.getElementById('age').innerHTML=getAge("01/03/1998");
+window.onload = function() {
+   document.getElementById('age').innerHTML=getAge("01/03/1998");
+};
