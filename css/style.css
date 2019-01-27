@@ -9,6 +9,9 @@ body {
   max-width: 375px;
   padding: 25px;
 }
+.msg {
+  justify-content: space-between;
+}
 .messenger {
   width:70px;
   height:70px;
