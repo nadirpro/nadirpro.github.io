@@ -9,13 +9,6 @@ body {
   max-width: 375px;
   padding: 25px;
 }
-.msg {
-  display: flex;
-  justify-content: space-between;
-}
-.msg li {
-   list-style-type: none;
-}
 .messenger {
   width:70px;
   height:70px;
