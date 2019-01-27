@@ -2,11 +2,11 @@
   width:80px;
   height:80px;
   border-radius:100px;
+  background-repeat: no-repeat;
+  background-size: 45px auto;
+  background-position: center;
 }
 .vk {
   background-color:#5b88bd; 
   background-image: url(/img/vk.svg);
-  background-repeat: no-repeat;
-  background-size: 45px auto;
-  background-position: center;
 }
