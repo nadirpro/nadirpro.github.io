@@ -10,10 +10,11 @@ body {
   padding: 25px;
 }
 .msg {
-  
+  padding-left:0;
 }
 .msg li {
-  list-style:none;  
+  list-style:none;
+  display:inline-block;
 }
 .messenger {
   width:70px;
