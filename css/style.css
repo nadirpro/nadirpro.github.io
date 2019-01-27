@@ -23,6 +23,13 @@ p {
   max-width: 375px;
   padding: 20px;
 }
+.photo {
+  display:inline-block;
+  height:60px;
+  width:60px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .name {
   display:inline-block;
   height:60px;
