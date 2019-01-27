@@ -5,8 +5,8 @@ body {
 .block {
   margin: 0 auto;
   box-shadow: 0 0 8px 0 rgba(0,0,0,.18);
-  width: 100%;
-  max-width: 325px;
+  width: calc(100% - 50px);
+  max-width: 375px;
   padding: 25px;
 }
 .messenger {
