@@ -21,6 +21,7 @@ p {
 }
 .hello-block p {
   color:#000;
+  font-size: 16px;
 }
 .block {
   margin: 0 auto;
