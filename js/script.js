@@ -12,5 +12,5 @@ function plural(n,str1,str2,str5){return n + ' ' + ((((n%10)==1)&&((n%100)!=11))
 
 window.onload = function() {
    var age=getAge("03/01/1998");
-   document.getElementById('age').innerHTML=age+' '+plural(age, 'год', 'года', 'лет')+', Тюмень';
+   document.getElementById('age').innerHTML=plural(age, 'год', 'года', 'лет')+', Тюмень';
 };
