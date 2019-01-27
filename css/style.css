@@ -1,8 +1,12 @@
 .messenger {
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   border-radius:100px;
 }
 .vk {
-  background-color:#5b88bd;  
+  background-color:#5b88bd; 
+  background-image: url(/img/vk.svg);
+  background-repeat: no-repeat;
+  background-size: 45px auto;
+  background-position: center;
 }
